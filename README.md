@@ -1,2 +1,2 @@
 # revive-rp
-revive rp сайтдля скачування
+revive rp сайт для скачування
